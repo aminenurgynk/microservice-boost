@@ -1,0 +1,17 @@
+spring:
+  cloud:
+    config:
+      uri: http://localhost:8888
+  config:
+    import: "configserver:"
+  application:
+    name: elastic-service-application
+
+logging:
+  level:
+    root: info
+  file:
+    name: my_elastic.log
+  logback:
+    rollingpolicy:
+      max-file-size: 1MB

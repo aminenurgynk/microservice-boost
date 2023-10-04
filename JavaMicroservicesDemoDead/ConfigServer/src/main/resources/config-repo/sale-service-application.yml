@@ -1,0 +1,22 @@
+server.port: 9092
+
+spring:
+  zipkin:
+    enabled: true
+    base-url: http://localhost:9411
+    service:
+      name: sale-service
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    username: ${POSTGRES_USERNAME}
+    password: ${POSTGRES_PASSWORD}
+    url: jdbc:postgresql://localhost:5432/javaMicroSaleDB
+  jpa:
+    hibernate:
+      ddl-auto: update
+
+authservice:
+  secrets:
+    key: ${JAVA_SECRETKEY}
+    issuer: ${JAVA_ISSUER}
+    exDate: 30000

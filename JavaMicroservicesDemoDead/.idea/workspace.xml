@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="398344ac-26b6-48ee-b129-eb4b51ab18d4" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="_086_JavaMicroservicesDemo" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="_086_JavaMicroservicesDemo" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="_086_JavaMicroservicesDemo" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/ElasticService/src/main/java/com/aminenurgynk/repository/IUserProfileRepository.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="gke_causal-smoke-399021_us-central1-a_my-autopilot-cluster-1" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2UNAh3Fzs4aGuhY638ctZZPxmSl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.google.cloudcode.ide_session_index": "20230929_0000",
+    "jdk.selected.JAVA_MODULE": "corretto-17",
+    "last_opened_file_path": "D:/workspace/idea-sts-project/_086_JavaMicroservicesDemoDead",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "D:/workspace/idea-sts-project/_086_JavaMicroservicesDemo/ElasticService/src/main/java/com/aminenurgynk/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "spring.configuration.checksum": "0c83cd59031e33c67f205f9b748af674",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql",
+      "redis"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\idea-sts-project\_086_JavaMicroservicesDemo\ConfigServer\src\main\resources\config-repo" />
+      <recent name="D:\workspace\idea-sts-project\_086_JavaMicroservicesDemo\ElasticService\src\main\resources" />
+      <recent name="D:\workspace\idea-sts-project\_086_JavaMicroservicesDemo\ElasticService\src\main\java\com\aminenurgynk" />
+      <recent name="D:\workspace\idea-sts-project\_086_JavaMicroservicesDemo\UserProfileService\src\main\java\com\aminenurgynk" />
+      <recent name="D:\workspace\idea-sts-project\_086_JavaMicroservicesDemo\ApiGatewayService\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.aminenurgynk.dto.request" />
+      <recent name="com.aminenurgynk.controller" />
+      <recent name="com.aminenurgynk.mapper" />
+      <recent name="com.aminenurgynk.service" />
+      <recent name="com.aminenurgynk.repository" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Docker.resources.redis: Compose Deployment">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="_086_JavaMicroservicesDemoDead" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="_086_JavaMicroservicesDemoDead" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiGatewayServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="_086_JavaMicroservicesDemo.ApiGatewayService.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.aminenurgynk.ApiGatewayServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="_086_JavaMicroservicesDemo.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.aminenurgynk.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuthServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="_086_JavaMicroservicesDemo.AuthService.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.aminenurgynk.AuthServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="_086_JavaMicroservicesDemo.ConfigServer.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.aminenurgynk.ConfigServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigServerGitApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="_086_JavaMicroservicesDemo.ConfigServerGit.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.aminenurgynk.ConfigServerGitApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElasticServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="_086_JavaMicroservicesDemo.ElasticService.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.aminenurgynk.ElasticServiceApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aminenurgynk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductServiceApplicaton" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="_086_JavaMicroservicesDemo.ProductService.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.aminenurgynk.ProductServiceApplicaton" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SaleServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="_086_JavaMicroservicesDemo.SaleService.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.aminenurgynk.SaleServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserProfileServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="_086_JavaMicroservicesDemo.UserProfileService.main" />
+      <selectedOptions>
+        <option name="environmentVariables" />
+      </selectedOptions>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.aminenurgynk.UserProfileServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="resources: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="../_086_JavaMicroservicesDemo/ConfigServer/src/main/resources/docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="resources.rabbitmq: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="rabbitmq" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="../_086_JavaMicroservicesDemo/ConfigServer/src/main/resources/docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="resources.redis: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="redis" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="../_086_JavaMicroservicesDemo/ConfigServer/src/main/resources/docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="resources.zipkin: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="zipkin" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="../_086_JavaMicroservicesDemo/ConfigServer/src/main/resources/docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Docker.resources.rabbitmq: Compose Deployment" />
+      <item itemvalue="Docker.resources.zipkin: Compose Deployment" />
+      <item itemvalue="Docker.resources: Compose Deployment" />
+      <item itemvalue="Docker.resources.redis: Compose Deployment" />
+      <item itemvalue="Spring Boot.ApiGatewayServiceApplication" />
+      <item itemvalue="Spring Boot.ConfigServerApplication" />
+      <item itemvalue="Spring Boot.Application" />
+      <item itemvalue="Spring Boot.AuthServiceApplication" />
+      <item itemvalue="Spring Boot.ProductServiceApplicaton" />
+      <item itemvalue="Spring Boot.SaleServiceApplication" />
+      <item itemvalue="Spring Boot.UserProfileServiceApplication" />
+      <item itemvalue="Spring Boot.ConfigServerGitApplication" />
+      <item itemvalue="Spring Boot.ElasticServiceApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ElasticServiceApplication" />
+        <item itemvalue="Docker.resources.redis: Compose Deployment" />
+        <item itemvalue="Docker.resources: Compose Deployment" />
+        <item itemvalue="Docker.resources.zipkin: Compose Deployment" />
+        <item itemvalue="Docker.resources.rabbitmq: Compose Deployment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="398344ac-26b6-48ee-b129-eb4b51ab18d4" name="Changes" comment="" />
+      <created>1692769782861</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692769782861</updated>
+      <workItem from="1692769783418" duration="909000" />
+      <workItem from="1692771811568" duration="17000" />
+      <workItem from="1693849643265" duration="3339000" />
+      <workItem from="1693860437136" duration="3877000" />
+      <workItem from="1693912315720" duration="9235000" />
+      <workItem from="1693927715538" duration="2191000" />
+      <workItem from="1693931622365" duration="120000" />
+      <workItem from="1693931756562" duration="157000" />
+      <workItem from="1693931928715" duration="357000" />
+      <workItem from="1693932299830" duration="50000" />
+      <workItem from="1694083310330" duration="3237000" />
+      <workItem from="1694088646555" duration="1468000" />
+      <workItem from="1694092363443" duration="767000" />
+      <workItem from="1694095645226" duration="982000" />
+      <workItem from="1694168035553" duration="568000" />
+      <workItem from="1694169166487" duration="286000" />
+      <workItem from="1694169464091" duration="217000" />
+      <workItem from="1694169693468" duration="63000" />
+      <workItem from="1694169768958" duration="6399000" />
+      <workItem from="1694190850950" duration="257000" />
+      <workItem from="1694196999832" duration="10361000" />
+      <workItem from="1694211706232" duration="232000" />
+      <workItem from="1694211950032" duration="467000" />
+      <workItem from="1694212429516" duration="696000" />
+      <workItem from="1694248074817" duration="4290000" />
+      <workItem from="1694252410057" duration="1574000" />
+      <workItem from="1694253998113" duration="1179000" />
+      <workItem from="1694255190907" duration="1042000" />
+      <workItem from="1694256244560" duration="4075000" />
+      <workItem from="1694261162879" duration="1419000" />
+      <workItem from="1694265246249" duration="8047000" />
+      <workItem from="1694293201092" duration="5432000" />
+      <workItem from="1694417534917" duration="4961000" />
+      <workItem from="1694426268401" duration="1369000" />
+      <workItem from="1694431320948" duration="2828000" />
+      <workItem from="1694467993922" duration="3706000" />
+      <workItem from="1694508928677" duration="1533000" />
+      <workItem from="1694512926476" duration="6258000" />
+      <workItem from="1694521075754" duration="520000" />
+      <workItem from="1694521608138" duration="451000" />
+      <workItem from="1694522092995" duration="162000" />
+      <workItem from="1694528787055" duration="1323000" />
+      <workItem from="1694530125211" duration="261000" />
+      <workItem from="1694544841238" duration="3068000" />
+      <workItem from="1694549566372" duration="1207000" />
+      <workItem from="1694552161243" duration="1324000" />
+      <workItem from="1694553518340" duration="39000" />
+      <workItem from="1694555056146" duration="944000" />
+      <workItem from="1694599840591" duration="2325000" />
+      <workItem from="1694616777999" duration="3322000" />
+      <workItem from="1694631051958" duration="4912000" />
+      <workItem from="1694640505066" duration="3081000" />
+      <workItem from="1694690275524" duration="8162000" />
+      <workItem from="1694722671014" duration="1844000" />
+      <workItem from="1694733734576" duration="106000" />
+      <workItem from="1694733859008" duration="1758000" />
+      <workItem from="1694808062496" duration="3153000" />
+      <workItem from="1694863027707" duration="1241000" />
+      <workItem from="1695140380275" duration="392000" />
+      <workItem from="1695744003353" duration="188000" />
+      <workItem from="1695834332819" duration="864000" />
+      <workItem from="1695969286676" duration="640000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SatisService/src/main/java/com/aminenurgynk/SatisServiceApplication.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SatisService/src/main/java/com/aminenurgynk/SatisServiceApplication.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

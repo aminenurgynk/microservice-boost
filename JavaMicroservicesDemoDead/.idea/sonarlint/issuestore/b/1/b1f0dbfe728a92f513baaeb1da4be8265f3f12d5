@@ -1,0 +1,14 @@
+
+T
+java:S2789C"2Replace this null literal by an "Optional" object.(Û†—Õúÿÿÿÿ8ˆâµà§1
+f
+java:S3655J"DCall "id.isPresent()" or "!id.isEmpty()" before accessing the value.(ÚÀ ƒúÿÿÿÿ8˜âµà§1
+m
+java:S3655*"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Úáìä8˜âµà§1
+]	java:S125)"<This block of commented-out lines of code should be removed.(ÃžŽ¿þÿÿÿÿ8 âµà§1
+X	java:S1252"<This block of commented-out lines of code should be removed.(ºÌøõ8¥âµà§1
+X	java:S125<"<This block of commented-out lines of code should be removed.(ªñ¥ª8¦âµà§1
+a
+java:S1134I"DTake the required action to fix the issue indicated by this comment.(÷Ãž“8¦âµà§1
+S
+java:S1068"6Remove this unused "userProfileManager" private field.(¸½„±8§âµà§1

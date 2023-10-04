@@ -1,0 +1,9 @@
+
+^
+java:S4973+"<Strings and Boxed types should be compared using "equals()".(õ¤ºáıÿÿÿÿ8ØËğ ©1
+§
+java:S18625"„This branch can not be reached because the condition duplicates a previous condition in the same sequence of "if/else if" statements(ÅÆ´ÿøÿÿÿÿ8ØËğ ©1
+]	java:S125"<This block of commented-out lines of code should be removed.(¥´şçùÿÿÿÿ8€Ìğ ©1
+X	java:S125 "<This block of commented-out lines of code should be removed.(Üîæİ8Ìğ ©1
+f
+java:S33580"DExtract this nested ternary operation into an independent statement.(ãŸ¯–üÿÿÿÿ8ƒÌğ ©1

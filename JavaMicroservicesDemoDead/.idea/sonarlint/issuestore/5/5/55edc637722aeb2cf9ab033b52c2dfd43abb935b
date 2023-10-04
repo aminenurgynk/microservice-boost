@@ -1,0 +1,7 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(ÑºÇî8ô ã°¦1
+U
+java:S1854K"8Remove this useless assignment to local variable "info".(±ôŞ…8Õó¬¦1
+U	java:S106H"9Replace this use of System.out or System.err by a logger.(í—–µ8Öó¬¦1
+F
+java:S1481K")Remove this unused "info" local variable.(±ôŞ…8Öó¬¦1
